@@ -1,9 +1,6 @@
 
-<h1 align="center">AinfO Technology Co., Ltd. 2022 Summer Camp AiN101</h1>
+<h1 align="center">AinfO Technology Co., Ltd.<br>2022 Summer Camp<br>AiN101</h1>
 
-<h1 align="center">2022 Summer Camp</h1>
-
-<h1 align="center">AiN101</h1>
 
 ---
 
